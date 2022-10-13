@@ -1,0 +1,2 @@
+ ffmpeg -i D:/ffmpeg/video/ -vf fps=25 D:/ffmpeg/pics/
+ -hide_banner
